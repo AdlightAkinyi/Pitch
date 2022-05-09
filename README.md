@@ -22,3 +22,5 @@ Bootstrap4
  # set-up and installation requirements
   
   git clone https://github.com/AdlightAkinyi/Pitch.git
+
+  cd pitch
