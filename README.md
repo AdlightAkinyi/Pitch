@@ -6,3 +6,15 @@ This is a Python-Flask Application that allows users to create one minute pitch.
 # Author
 
 Adlight Akinyi
+
+# Technologies used
+
+Python3
+
+Flask
+
+Html5
+
+CSS
+
+Bootstrap4
