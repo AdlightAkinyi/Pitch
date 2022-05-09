@@ -24,3 +24,6 @@ Bootstrap4
   git clone https://github.com/AdlightAkinyi/Pitch.git
 
   cd pitch
+
+
+  pip install -r requirements.txt
