@@ -32,6 +32,8 @@ Bootstrap4
 
   python3.8 manage.py
 
+  Open the application on your browser http://127.0.0.1:5000/
+
   # Testing the app
 
   python3.8 manage.py test
