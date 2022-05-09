@@ -21,7 +21,7 @@ Bootstrap4
  
  # set-up and installation requirements
   
-  git clone https://github.com/AdlightAkinyi/Pitch.git
+  git clone  https://github.com/AdlightAkinyi/flask-pitch.git
 
   cd pitch
 
