@@ -37,3 +37,7 @@ Bootstrap4
   # Testing the app
 
   python3.8 manage.py test
+
+  # Support and Contact details
+
+  adlightakinyi1@gmail.com
