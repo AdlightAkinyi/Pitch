@@ -9,21 +9,22 @@ Adlight Akinyi
 
 # User Story
 
-As a user, I would like to see the pitches other people have posted.
+Users can see the pitches other people have posted.
 
-As a user, I would like to vote on the pitch they liked and give it a downvote or upvote.
+Users can vote on the pitch they liked and give it a downvote or upvote.
 
-As a user, I would like to be signed in for me to leave a comment
+Users can sign in to leave a comment.
 
-As a user, I would like to receive a welcoming email once I sign up.
+Users can register on the website.
 
-As a user, I would like to view the pitches I have created in my profile page.
+Users can view the pitches they have created in their profile page..
 
-As a user, I would like to comment on the different pitches and leave feedback.
+Users can comment on the different pitches and leave feedback.
 
-As a user, I would like to submit a pitch in any category.
+Users can submit a pitch in any category.
 
-As a user, I would like to view the different categories.
+Users can view the different categories.
+
 
 # Technologies used
 
